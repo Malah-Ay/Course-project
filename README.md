@@ -1,4 +1,4 @@
-<h1>Udemig Course Full Responsive(95)</h1>
+<h1>Udemig Course Full Responsive</h1>
 
 <h2>Course-Project</h2>
 
