@@ -21,11 +21,11 @@ This section contains a list of courses offered. Information such as a title is 
 
 <h1>Used technologies</h1>
 
--HTML
--HTML5
--CSS
--CSS3
--Bootstrap
+<p> -HTML</p>
+<p>-HTML5 </p>
+<p> -CSS</p>
+<p>-CSS3 </p>
+<p>-Bootstrap </p>
 
 <h1>Libraries</h1>
 
